@@ -1,2 +1,0 @@
-# ReactRouterWizardForm
-Created with CodeSandbox
